@@ -1,5 +1,6 @@
+import Layout from '../components/MyLayout'
 export default () => (
-    <div>
+    <Layout>
         <p>This is the acount page</p>
-    </div>
+    </Layout>
 )
